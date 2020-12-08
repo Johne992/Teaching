@@ -1,0 +1,37 @@
+body {
+    background: black;
+  }
+  h1 {
+    color: cyan;
+  }
+  .outer-image {
+    width: 100%;
+  }
+  table{
+    border:3px solid;
+    border-color: purple;
+    border-collapse:collapse;
+    width:100%;
+    /* text-align:center; */
+    /* vertical-align:center; */
+  }
+  th {
+    border: 5px solid darkgreen;
+    background-color:#a9ded3;
+    /* font:20px arial; */
+    /* padding: 1% 2% 4% 1% */
+  }
+  td { 
+    border:solid;
+    border-color:#4efa4b;
+    padding:1% 2% 2% 1%;
+    padding-bottom: 21px;
+    padding-top: 15px;
+    padding-left: 0;
+    padding-right: 4px;
+    text-align: center;
+    background: yellow;
+   }
+  table img {
+    width: 200px;
+  }
