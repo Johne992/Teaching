@@ -1,0 +1,18 @@
+<h1>This is my(Quinton) table</h1> <a href=https://cdn.drawception.com/drawings/661265/Cpt2kxC0WY.png> <img  class='outer-image' src='https://progameguides.com/wp-content/uploads/2020/09/among-us-rocketing-popularity-900x506.jpg' cb=20200912190532> </a><table class='wide'> <theader> <th><em>Item</em></th><th>Description</th><th>Status</th><th>Picture</th></theader>
+<!--   row one -->
+  <tr>
+    <td>1</td>
+    <td>Pie</td>
+    <td>Cold</td>
+    <td><a href=https://cdn.drawception.com/drawings/661265/Cpt2kxC0WY.png> 
+<img src= https://vignette.wikia.nocookie.net/versus-compendium/images/5/5f/Impostor.png/revision/latest?cb=20200912190532> </a></td>
+  </tr>
+<!-- row two -->
+  <tr>
+    <td>2</td>
+    <td>Blue Store Chicken</td>
+    <td>Best</td>
+    <td><a href=https://cdn.drawception.com/drawings/661265/Cpt2kxC0WY.png> 
+<img src='https://vignette.wikia.nocookie.net/among-us-wiki/images/8/8e/2_blue.png/revision/latest?cb=20200912125155' cb=20200912190532> </a></td>
+  </tr>
+</table>
