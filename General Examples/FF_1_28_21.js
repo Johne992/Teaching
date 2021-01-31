@@ -6,7 +6,8 @@ var a = document.getElementById('A').textContent;
 	console.log(a)
 //initializes the function myfunction
 function myfunction(){
-	var a = document.getElementById('a').textContent;
+  //gets the text inside of the element with Id 'a'
+  var a = document.getElementById('a').textContent;
 	console.log(a)
   
   var a = document.getElementById('a').textContent;
