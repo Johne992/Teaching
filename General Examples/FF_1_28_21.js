@@ -12,7 +12,7 @@ function myfunction(){
   //gets the text inside of the element with Id 'a'
   var a = document.getElementById('a').textContent;
 	console.log(a)
-
+  //gets the text inside of the element with Id 'A'
   var a = document.getElementById('A').textContent;
 	console.log(a)
 
